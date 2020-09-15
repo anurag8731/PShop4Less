@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Polo T-Shirts",
+      "categoryId": 2,
+      "description": "Product Description goes here",
+      "product_img": "assets/img/T-Shirt6.jpg",
+      "price": 345,
+      "is_available": true,
+      "rating": 4,
+      "reviews": 120,
+      "vendor_productName": "seller -1",
+      "warranty": 2 
+    },
+    {
+      "id": 2,
+      "productName": "Soccer T-Shirts",
+      "categoryId": 3,
+      "description": "Product Description goes here",
+      "product_img": "assets/img/T-Shirt5.jpg",
+      "price": 542,
+      "is_available": true,
+      "rating": 3,
+      "reviews": 110,
+      "vendor_productName": "seller -2",
+      "warranty": 3 
+    },
+    {
+      "id": 3,
+      "productName": "Collar T-Shirts",
+      "categoryId": 4,
+      "description": "Product Description goes here",
+      "product_img": "assets/img/T-Shirt4.jpg",
+      "price": 232,
+      "is_available": true,
+      "rating": 3,
+      "reviews": 110,
+      "vendor_productName": "seller -2",
+      "warranty": 3 
+    },
+    {
+      "id": 4,
+      "productName": "Sports T-Shirts",
+      "categoryId": 5,
+      "description": "Product Description goes here",
+      "product_img": "assets/img/T-Shirt3.jpg",
+      "price": 342,
+      "is_available": true,
+      "rating": 3,
+      "reviews": 110,
+      "vendor_productName": "seller -2",
+      "warranty": 3 
+    },
+    {
+      "id": 5,
+      "productName": "Soccer T-Shirts",
+      "categoryId": 3,
+      "description": "Product Description goes here",
+      "product_img": "assets/img/T-Shirt2.jpg",
+      "price": 342,
+      "is_available": true,
+      "rating": 3,
+      "reviews": 110,
+      "vendor_productName": "seller -2",
+      "warranty": 3 
+    },
+    {
+      "id": 6,
+      "productName": "Polo T-Shirts",
+      "categoryId": 2,
+      "description": "Product Description goes here",
+      "product_img": "assets/img/T-Shirt1.jpg",
+      "price": 342,
+      "is_available": true,
+      "rating": 3,
+      "reviews": 110,
+      "vendor_productName": "seller -2",
+      "warranty": 3 
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Polo T-Shirts",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "categoryName": "Soccer T-Shirts",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "categoryName": "Casual T-Shirts",
+      "postId": 1
+    },
+    {
+      "id": 4,
+      "categoryName": "Collar T-Shirts",
+      "postId": 1
+    },
+    {
+      "id": 5,
+      "categoryName": "Sports T-Shirts",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "productName": "typicode"
+  }
+}
